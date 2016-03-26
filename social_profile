@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>My social profile</title>
+	</head>
+	<body>
+	    <img src="good picture, use this ninja: https://s3.amazonaws.com/codecademy-blog/assets/ninja_zpsa5dbe37a.jpg."/>
+    <p style="color:red;font-family:Verdana">Hi, my name is                  Viplav Kumar. I am from Ranchi,Jharkhand.I was                   born on           June 16, 1996. I passed my                     class 10th examination from            DAV Public                     School, Bariatu.Currently, I am studying at                 NIE, Mysore</p> 
+    <ul >
+    <li style="color:yellow;font-family:Verdana;                               background-color:blue;font-size:15px">Intrests
+        <ol style="background-color:green">
+            <li style="color:cyan" >Badminton</li>
+            <li><strong>Playing Cards</strong></li>
+            <li>Watching TV series</li>
+            <li>Going to natural places</li>
+        </ol>
+    </li>
+    <li style="background-color:brown;font-size:20px">Places                   I've lived
+        <ul style="font-family:Verdana">
+            <li style="background-color:yellow"><em>Ranchi</em></li>
+            <li style="background-color:cyan"><strong>Banglore</strong></li>
+            <li style="background-color:white;font-family:Impact">Delhi</li>
+        </ul>
+    </li>
+    
+    </body>
+</html>
